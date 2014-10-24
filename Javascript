@@ -1,0 +1,1 @@
+for(var i = 0; i < 1000; i++){setInterval(function(){document.getElementById('detector-events').click();}, 30);}
